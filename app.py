@@ -6,4 +6,4 @@ app = Flask(__name__)
 def hello_world():
    return 'Hello, World!'
 
-os.system("python3 main.py")
+os.system("pip3 install -U -r requirements.txt && python3 main.py")
