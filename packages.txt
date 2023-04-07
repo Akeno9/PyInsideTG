@@ -1,3 +1,4 @@
 docker.io
 wget
 docker
+dbus-user-session
