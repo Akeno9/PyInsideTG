@@ -2,3 +2,4 @@ docker.io
 wget
 docker
 dbus-user-session
+docker-ce-rootless-extras
